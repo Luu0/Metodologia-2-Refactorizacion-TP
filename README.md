@@ -266,10 +266,6 @@ Este proyecto está diseñado para que los estudiantes:
 
 ## Próximos pasos
 
-1. Explorar el código fuente y analizar su estructura actual
-2. Identificar áreas para desarrollar nuevas funcionalidades
-3. Implementar mejoras que agreguen valor al sistema
-4. Verificar que la funcionalidad se mantiene intacta después de los cambios
 
 ## Notas importantes
 
@@ -278,7 +274,5 @@ Este proyecto está diseñado para que los estudiantes:
 ⚠️ **Autenticación simplificada**: El sistema de autenticación es básico y no debe usarse en producción.
 
 ---
-
-**¡Buena suerte con la refactorización!** 🚀
 
 _Proyecto educativo - UTN - Metodología de Sistemas II_
